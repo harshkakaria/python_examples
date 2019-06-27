@@ -131,3 +131,8 @@
 # print(argv[1]+argv[2])
 # print(int(argv[1])+int(argv[2]))
 
+# member ship operators (in ,not in)
+s = set('jaigiri')
+print(s)
+print('d'in s)
+print('j'in s)
