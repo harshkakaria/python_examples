@@ -217,21 +217,18 @@
 #         func(name)
 #
 #     return inner
-#
-#
+
 # def decor1(func):
 #     def inner(name):
 #         print('second decor (decor1) exe')
 #         func(name)
-#
 #     return inner
 #
 #
 # @decor1
-# @decor
+# # @decor
 # def wish(name):
 #     print('hello', name, 'good morning')
-
+#
+#
 # wish('jaya')
-
-
