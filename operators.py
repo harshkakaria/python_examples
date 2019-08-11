@@ -116,7 +116,7 @@
 #     print(x)
 
 # from sys import argv
-#
+
 # sum = 0
 # args = argv[1:]
 # for x in args:
@@ -132,7 +132,8 @@
 # print(int(argv[1])+int(argv[2]))
 
 # member ship operators (in ,not in)
-s = set('jaigiri')
-print(s)
-print('d'in s)
-print('j'in s)
+
+# s = set('jaigiri')
+# print(s)
+# print('d'in s)
+# print('j'in s)
